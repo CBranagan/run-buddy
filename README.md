@@ -12,3 +12,5 @@ https://
 
 ## Contribution
 Made with ❤️ by Chad Branagan
+
+### ©️2019 Run Buddy, Inc
