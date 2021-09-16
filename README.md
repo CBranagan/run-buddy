@@ -1,4 +1,4 @@
-# run-buddy
+# run-buddy create conflict
 
 ## Purpose
 A website that offers fitness training services.
